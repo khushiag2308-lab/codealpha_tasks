@@ -1,0 +1,13 @@
+STOCK PORTFOLIO
+====================
+Stock: AAPL
+Quantity: 10
+Price: 180
+Investment: 1800
+--------------------
+Stock: MSFT
+Quantity: 50
+Price: 420
+Investment: 21000
+--------------------
+Total Investment: 22800
